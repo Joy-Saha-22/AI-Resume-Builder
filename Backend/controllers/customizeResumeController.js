@@ -33,16 +33,16 @@ Do not use any other special formatting or markdown.
 
 ---
 **EXAMPLE OF CORRECT OUTPUT:**
-Aaditya Tyagi
-+91 9015152707 | Delhi, India | aadityatyagi0004@gmail.com
+Joy Saha
++91 9039905767 Jabalpur, India | joysaha22.dev@gmail.com
 LINKEDIN | GITHUB
 ## SUMMARY ##
 - An aspiring and motivated software developer...
 ## EDUCATION ##
-Bachelor of Information Technology, Guru Tegh Bahadur Institute of Technology
-2022 - 2026
+Bachelor of Computer Applications, Rani Durgavati University
+2023 - 2026
 ## PROJECTS ##
-TaskZen - Full-Stack Task Management Web App
+Collaborative Task Manager
 - Built secure user authentication system with JWT.
 
 ---
