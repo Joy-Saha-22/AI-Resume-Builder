@@ -11,8 +11,8 @@ export const openai = new OpenAI({
 export const getOpenAIResponse = async (prompt) => {
   try {
     const response = await openai.chat.completions.create({
-      model: "nvidia/nemotron-3-ultra:free", 
-      // model:"chatgpt-4o-latest",
+      // model: "nvidia/nemotron-3-ultra:free", 
+      model:"openai/gpt-oss-20b:free",
       messages: [
         {
           role: "system",
